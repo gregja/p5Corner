@@ -3,14 +3,12 @@ Cours autodidactique consacré au framework P5.js
 
 ------
 
-Ce projet contient 1 document au format PDF : 
-
-- un tutoriel "P5.js - Premiers pas" 
+Ce projet contient un document au format PDF : "Tuto_P5_Premiers_pas.pdf" 
 
 
 -------
 
-J'ai écrit le support de cours sur P5 en avril 2017, pour les besoins du meetup Creative Coding Paris, que je co-anime avec quelques amis. 
+J'ai écrit ce support d'introduction à P5 en avril 2017, pour les besoins du meetup Creative Coding Paris, que je co-anime avec quelques amis. 
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
