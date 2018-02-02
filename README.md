@@ -24,7 +24,7 @@ Si vous souhaitez migrer vers P5.js des sketchs écrits initialement pour Proces
 
 https://github.com/gregja/p5Migration
 
-Des nouveautés intéressantes sont apparues courant 2017 autour de P5.js, et j'espère pouvoir consacrer un peu de temps, dans le courant du premier trimestre 2018, pour mettre à jour le support actuel. Affaire à suivre, donc...
+Des nouveautés intéressantes sont apparues courant 2017 autour de P5.js, et notamment un nouvel éditeur de sketch en ligne (http://alpha.editor.p5js.org/). C'est la raison pour laquelle j'ai mis à jour le support d'introduction à P5 de ce dépôt.
 
 
 --------
